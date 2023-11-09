@@ -24,7 +24,3 @@ This project is a simple Python implementation of a blockchain with data encrypt
 
 3. Keys are stored securely in the `Keylist_Block` blockchain for decryption. For added security, keys are removed from the main blockchain.
 
-## Code
-
-```python
-# Insert your Python code here
